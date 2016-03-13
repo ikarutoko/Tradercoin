@@ -1,25 +1,53 @@
 TraderCoin integration/staging tree
 ================================
 
-http://www.tradercoin.org
+
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 TraderCoin Developers
+Copyright (c) 2016 TraderCoin Developers
 
-What is TraderCoin?
-----------------
+#### DISCLAIMER ####
 
-TraderCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+Hello guys, we are not coins developers, we are traders that operate markets as Forex, Bitcoin and altcoins.
 
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+Our goal is to study about cryptocurrency and have another point of view within the altcoins market, we have some points that will be presented on 20 May, one of the points we call Progressive Buy Wall.
 
-For more information, as well as an immediately useable, binary version of
-the TraderCoin client sofware, see http://www.tradercoin.org.
+Our team consists of traders and bought the service walletbuilders.com to create a coin for us, we always had a desire to learn more about the development of cryptocurrency and decided to do it.
+
+The basis of our project is for fun, we release the source code of our project to be checked, because we can not guarantee that the files are reliable, although Walletbuilders.com affirm that yes, use at your own risk.
+
+All of the executable on the site virustotal.com and use at your own risk.
+
+We suggest using the currency in test environments and for study purposes, but later could we put tradercoin in exchanges
+
+
+#### What is Tradercoin ? #####
+
+Tradercoin is a currency originally created to serve as a form of payment for our reports , courses, coach , events, tips on bitcoin and altcoins , and our services available both offline and online.
+We are studying the market , we want to learn about the behavior of cryptocurrency and we have the support of the community
+
+#### Advantages of Tradercoin? ####
+
+Initially , given the purpose of the coin studies , we will ensure an appreciation of Tradercoin , and the symbolic starting price of 1 satoshi , and can later rise to 2 satoshis or more , always previously communicating to our community .
+Those who buy our products using Tradercoin will have a 50% discount , we will soon have a list of products and services.
+
+#### As the Tradercoin will be distributed? ####
+
+The tradercoin will be distributed using mining CPU , so everyone can have access to tradercoin some tradercoins are with our team and will be used as awards to the creators for the first year of service as well as to pay third-party services that are not linked to project.
+
+
+######  PROJECT  #####
+
+As we said before , we do not have experience in developing cryptocurrency and we are using the Tradercoin as a test , therefore , we remember the risk of the use of files and remember that if they wish can check the code in the available site .
+
+1) Until 15 April we will be focused on monitoring the mining and know how its development ;
+
+2 ) Until May 20 we will launch a website for Tradercoin ;
+
+3 ) Until May 20 we will have the release of the progressive Buywall system;
+
+4 ) On May 27, we will make the announcement of the second stage of Tradercoin .
+
 
 License
 -------
